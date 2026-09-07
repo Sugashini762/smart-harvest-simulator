@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartHarvest: Harvest Timing and Market Option Simulator for Small Farms
 
 ## 1. Problem Statement
@@ -296,3 +297,7 @@ summarized:
 - Integrate real weather-forecast and market-price data sources.
 - Add real irrigation-scheduling optimization for the shared-resource farm
   group, beyond the current simple "most common recommended day" heuristic.
+=======
+# smart-harvest-simulator
+An interactive harvest timing and market option simulator for small farms that estimates spoilage risk and expected farmer value using crop maturity, weather, market prices, storage, and transport conditions.
+>>>>>>> 8fc0d70e24753f36a67b57795715209c186c0b07
