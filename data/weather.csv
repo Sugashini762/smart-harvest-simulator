@@ -1,0 +1,5 @@
+scenario,temperature_c,humidity_pct,rain_probability_pct,note
+Normal,28,60,20,SIMULATED - typical fair weather
+Hot,36,45,5,SIMULATED - heat stress conditions
+Rainy,24,85,75,SIMULATED - high moisture / rain risk
+Extreme,40,90,80,SIMULATED - combined heat and rain stress
