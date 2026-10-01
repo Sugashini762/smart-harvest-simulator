@@ -1,0 +1,4 @@
+market_name,current_price_per_kg,price_tomorrow_per_kg,price_day2_per_kg,transport_time_hours,transport_cost_per_kg,demand_risk,note
+Market A,18.0,18.5,19.0,2,1.0,Low,SIMULATED - nearby stable market
+Market B,22.0,21.0,17.5,7,2.5,High,SIMULATED - distant high-price but volatile market
+Market C,19.5,20.0,20.5,4,1.5,Medium,SIMULATED - mid-distance balanced market
